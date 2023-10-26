@@ -1,9 +1,10 @@
+<!DOCTYPE html>
 <html lang="en">
-
 <head>
   <title>Login</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <!--===============================================================================================-->
   <link rel="icon" type="image/png" href="images/icons/favicon.ico" />
   <!--===============================================================================================-->
@@ -27,13 +28,11 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <!-- SweetAlert CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+
 </head>
 
 
 <body>
-
-
-
 
   <form method="post" id="loginForm">
 
@@ -159,5 +158,6 @@
 <!--===============================================================================================-->
 <script src="js/main.js"></script>
 <script src="plugins/alert.js"></script>
+
 
 </html>
